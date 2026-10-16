@@ -1,0 +1,143 @@
+=== Overall ===
+Sessions: 26576
+Users who opened a report: 404 of 420
+Overall failed-load %: 4.09
+Avg load time (successful): 5.4
+
+=== Monthly active users ===
+month
+2026-04    314
+2026-05    322
+2026-06    360
+2026-07    365
+2026-08    350
+2026-09    332
+Freq: M, Name: user_id, dtype: int64
+
+=== Failed-load % by report ===
+report_name
+Client Profitability     12.97
+Utilization Dashboard     3.71
+Ops KPI Scorecard         3.36
+Pipeline Tracker          2.29
+Expense Monitor           2.25
+Headcount Planner         2.05
+Revenue Overview          1.73
+Marketing Funnel          1.37
+Name: failed, dtype: float64
+
+=== Client Profitability before/after 15 Jun ===
+Failed % before: 3.06 | after: 19.37
+Avg load (success) before: 5.0 | after: 8.0
+Failed sessions after change: 500
+
+=== Avg load time (successful) by report ===
+report_name
+Utilization Dashboard    13.1
+Client Profitability      6.7
+Ops KPI Scorecard         4.5
+Marketing Funnel          4.0
+Pipeline Tracker          4.0
+Expense Monitor           3.5
+Revenue Overview          3.5
+Headcount Planner         3.0
+Name: load_time_sec, dtype: float64
+Utilization Dashboard loads > 10s %: 82.4
+
+=== Access requests ===
+status
+Approved    554
+Rejected     70
+Pending      16
+Name: count, dtype: int64
+Avg days to resolve by region:
+region
+APAC             8.7
+Europe           1.8
+India            1.7
+North America    1.7
+Name: days_to_resolve, dtype: float64
+Median by region:
+region
+APAC             9.0
+Europe           2.0
+India            2.0
+North America    2.0
+Name: days_to_resolve, dtype: float64
+Pending by region:
+region
+India            7
+APAC             5
+North America    2
+Europe           2
+Name: count, dtype: int64
+SLA (<=3 days) met % by region:
+region
+APAC              4.2
+Europe           90.3
+India            91.4
+North America    93.0
+Name: days_to_resolve, dtype: float64
+
+=== Sales + Pipeline Tracker ===
+Sales MAU by month:
+month
+2026-04    63
+2026-05    64
+2026-06    70
+2026-07    67
+2026-08    58
+2026-09    47
+Freq: M, Name: user_id, dtype: int64
+Pipeline Tracker sessions by Sales, by month:
+month
+2026-04    328
+2026-05    279
+2026-06    355
+2026-07    336
+2026-08    214
+2026-09    215
+Freq: M, dtype: int64
+Sales MAU Jun -> Sep: 70 -> 47
+PT sessions Jun -> Sep: 355 -> 215
+
+=== Feedback ===
+Responses: 613 | Avg CSAT: 3.85
+CSAT by month:
+month
+2026-04    4.07
+2026-05    3.99
+2026-06    3.95
+2026-07    3.66
+2026-08    3.66
+2026-09    3.80
+Freq: M, Name: satisfaction, dtype: float64
+Sales CSAT by month:
+month
+2026-04    3.88
+2026-05    4.00
+2026-06    4.10
+2026-07    3.08
+2026-08    2.75
+2026-09    3.15
+Freq: M, Name: satisfaction, dtype: float64
+Issue categories (all):
+issue_category
+No issue                 45.8
+Slow loading             15.2
+Wrong or missing data    13.9
+Confusing UI             10.4
+Access issues             8.3
+Missing feature           6.4
+Name: proportion, dtype: float64
+Sales issue categories Jul-Sep:
+issue_category
+Confusing UI             38.8
+No issue                 24.5
+Wrong or missing data    12.2
+Missing feature          10.2
+Slow loading             10.2
+Access issues             4.1
+Name: proportion, dtype: float64
+APAC 'Access issues' % vs others: 16.3 6.8
+Response rate (responses / active user-months): 30.0

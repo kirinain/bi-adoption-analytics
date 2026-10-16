@@ -1,0 +1,421 @@
+user_id,department,region,role,join_date
+U0001,HR,APAC,Manager,2025-02-18
+U0002,Operations,Europe,Analyst,2026-02-27
+U0003,Finance,India,Analyst,2025-12-24
+U0004,Marketing,North America,Analyst,2025-08-28
+U0005,HR,India,Analyst,2025-08-25
+U0006,Marketing,India,Manager,2026-04-14
+U0007,Finance,Europe,Director,2025-02-16
+U0008,Finance,Europe,Analyst,2026-01-16
+U0009,Strategy,Europe,Manager,2025-04-21
+U0010,Sales,APAC,Manager,2025-02-21
+U0011,Sales,Europe,Partner,2025-10-15
+U0012,Operations,Europe,Manager,2026-06-17
+U0013,HR,India,Analyst,2026-02-06
+U0014,Strategy,India,Manager,2026-02-20
+U0015,Sales,Europe,Analyst,2026-01-27
+U0016,Strategy,APAC,Partner,2026-03-06
+U0017,Finance,India,Analyst,2025-10-08
+U0018,Operations,North America,Manager,2025-03-11
+U0019,HR,Europe,Analyst,2026-04-04
+U0020,Finance,India,Analyst,2025-09-03
+U0021,Finance,North America,Director,2025-10-01
+U0022,Sales,APAC,Manager,2025-07-22
+U0023,Strategy,Europe,Analyst,2025-04-10
+U0024,Operations,India,Partner,2026-05-22
+U0025,Strategy,APAC,Director,2026-03-03
+U0026,Marketing,North America,Analyst,2025-12-18
+U0027,Operations,APAC,Manager,2025-08-08
+U0028,Marketing,India,Analyst,2026-03-26
+U0029,Finance,North America,Manager,2025-10-25
+U0030,Finance,North America,Analyst,2025-08-31
+U0031,Marketing,India,Analyst,2025-09-03
+U0032,Marketing,APAC,Director,2025-05-05
+U0033,Sales,India,Director,2025-02-20
+U0034,Operations,India,Director,2025-10-30
+U0035,Operations,North America,Partner,2026-04-30
+U0036,Strategy,Europe,Manager,2025-02-04
+U0037,Operations,Europe,Manager,2026-04-14
+U0038,Sales,APAC,Manager,2026-03-28
+U0039,Sales,India,Analyst,2025-06-01
+U0040,Operations,North America,Analyst,2025-12-11
+U0041,HR,India,Analyst,2025-04-01
+U0042,Strategy,North America,Manager,2026-02-18
+U0043,Operations,APAC,Analyst,2026-01-18
+U0044,Sales,Europe,Analyst,2025-07-13
+U0045,Sales,North America,Manager,2025-02-07
+U0046,Marketing,North America,Analyst,2026-06-15
+U0047,Marketing,APAC,Analyst,2025-09-01
+U0048,Finance,North America,Director,2026-05-03
+U0049,Finance,India,Director,2026-01-06
+U0050,Operations,North America,Analyst,2026-03-01
+U0051,Finance,India,Analyst,2026-02-19
+U0052,Marketing,India,Analyst,2025-04-17
+U0053,Sales,India,Manager,2025-07-18
+U0054,Finance,North America,Director,2025-09-12
+U0055,Strategy,Europe,Analyst,2025-09-29
+U0056,Finance,North America,Manager,2025-01-24
+U0057,Sales,North America,Analyst,2025-10-26
+U0058,Finance,APAC,Analyst,2025-03-26
+U0059,Finance,Europe,Partner,2026-02-10
+U0060,Finance,North America,Analyst,2026-01-08
+U0061,Finance,India,Analyst,2026-05-19
+U0062,Finance,APAC,Analyst,2026-02-11
+U0063,Finance,India,Manager,2025-07-20
+U0064,Operations,North America,Partner,2026-06-13
+U0065,HR,APAC,Partner,2025-08-13
+U0066,Sales,North America,Analyst,2025-06-27
+U0067,Sales,Europe,Analyst,2026-05-10
+U0068,Operations,North America,Manager,2025-07-22
+U0069,Strategy,Europe,Analyst,2025-02-11
+U0070,Strategy,India,Director,2025-09-14
+U0071,Finance,India,Manager,2026-03-11
+U0072,Finance,North America,Analyst,2025-04-14
+U0073,Sales,India,Director,2025-09-10
+U0074,Sales,APAC,Analyst,2025-03-12
+U0075,Operations,India,Analyst,2026-01-10
+U0076,Sales,North America,Manager,2025-09-17
+U0077,Finance,Europe,Manager,2025-06-30
+U0078,Sales,Europe,Manager,2025-05-04
+U0079,Operations,North America,Manager,2025-11-05
+U0080,Finance,North America,Partner,2026-01-01
+U0081,Marketing,APAC,Partner,2026-05-29
+U0082,Finance,Europe,Manager,2025-08-27
+U0083,Strategy,Europe,Analyst,2025-03-29
+U0084,Finance,APAC,Manager,2026-03-31
+U0085,Strategy,Europe,Partner,2025-12-10
+U0086,Strategy,India,Analyst,2026-01-18
+U0087,Strategy,North America,Analyst,2025-02-23
+U0088,Marketing,India,Analyst,2025-06-20
+U0089,Marketing,Europe,Analyst,2026-02-24
+U0090,HR,APAC,Manager,2026-03-31
+U0091,Marketing,North America,Analyst,2025-08-26
+U0092,Finance,North America,Manager,2026-03-16
+U0093,Operations,India,Director,2026-04-05
+U0094,Operations,APAC,Director,2025-07-31
+U0095,Strategy,India,Analyst,2026-05-06
+U0096,Operations,India,Analyst,2025-06-07
+U0097,Sales,India,Manager,2025-05-11
+U0098,HR,India,Director,2026-01-08
+U0099,Sales,North America,Analyst,2025-12-14
+U0100,Finance,North America,Director,2025-03-18
+U0101,Operations,North America,Analyst,2026-03-31
+U0102,Sales,India,Director,2025-04-20
+U0103,Sales,India,Analyst,2026-03-16
+U0104,Sales,North America,Analyst,2025-01-05
+U0105,Sales,India,Manager,2026-03-12
+U0106,Sales,Europe,Analyst,2026-03-06
+U0107,Sales,India,Analyst,2026-03-03
+U0108,HR,North America,Analyst,2025-12-30
+U0109,Sales,North America,Analyst,2025-09-15
+U0110,Strategy,North America,Manager,2026-01-21
+U0111,Strategy,India,Analyst,2025-06-01
+U0112,Operations,India,Manager,2026-03-03
+U0113,Sales,APAC,Director,2025-10-31
+U0114,Operations,India,Analyst,2025-09-08
+U0115,Strategy,North America,Analyst,2025-10-04
+U0116,HR,North America,Director,2025-11-07
+U0117,Marketing,North America,Director,2025-01-21
+U0118,Operations,North America,Manager,2025-03-18
+U0119,HR,Europe,Director,2025-05-15
+U0120,Sales,Europe,Analyst,2025-03-04
+U0121,Marketing,India,Analyst,2025-08-29
+U0122,Sales,North America,Manager,2025-12-31
+U0123,HR,India,Analyst,2025-12-24
+U0124,Strategy,North America,Manager,2025-09-15
+U0125,Finance,Europe,Manager,2026-04-12
+U0126,Operations,India,Manager,2025-11-05
+U0127,Finance,North America,Analyst,2025-02-13
+U0128,Marketing,APAC,Analyst,2026-02-22
+U0129,Finance,India,Analyst,2025-11-10
+U0130,Strategy,North America,Analyst,2025-12-13
+U0131,Finance,Europe,Manager,2025-11-05
+U0132,Strategy,India,Analyst,2025-10-30
+U0133,Marketing,India,Analyst,2025-02-19
+U0134,Operations,India,Analyst,2025-11-02
+U0135,Marketing,APAC,Analyst,2026-03-11
+U0136,Marketing,India,Director,2025-06-15
+U0137,Strategy,India,Analyst,2025-11-26
+U0138,Sales,India,Partner,2025-01-17
+U0139,Operations,India,Analyst,2025-07-09
+U0140,Finance,Europe,Manager,2025-08-27
+U0141,Operations,India,Analyst,2026-06-21
+U0142,Finance,North America,Analyst,2025-04-28
+U0143,Operations,North America,Director,2025-05-31
+U0144,Operations,Europe,Partner,2025-08-12
+U0145,Operations,India,Director,2026-06-26
+U0146,Operations,APAC,Analyst,2026-04-11
+U0147,Marketing,Europe,Analyst,2025-01-19
+U0148,Marketing,India,Manager,2025-05-08
+U0149,Operations,Europe,Analyst,2026-03-25
+U0150,Operations,APAC,Manager,2025-02-01
+U0151,Strategy,India,Manager,2026-04-13
+U0152,Finance,APAC,Manager,2025-06-03
+U0153,Finance,North America,Director,2026-05-17
+U0154,Finance,Europe,Manager,2025-06-10
+U0155,HR,APAC,Analyst,2025-08-26
+U0156,Sales,North America,Analyst,2025-12-28
+U0157,Marketing,Europe,Manager,2025-03-10
+U0158,HR,North America,Analyst,2025-11-01
+U0159,Sales,Europe,Analyst,2025-10-03
+U0160,Strategy,Europe,Analyst,2026-03-05
+U0161,Marketing,India,Manager,2026-06-28
+U0162,Sales,North America,Director,2025-12-29
+U0163,Sales,North America,Manager,2025-08-12
+U0164,Sales,India,Analyst,2025-08-10
+U0165,Finance,India,Analyst,2025-08-17
+U0166,Finance,North America,Manager,2026-03-21
+U0167,Strategy,India,Analyst,2025-06-25
+U0168,Operations,India,Manager,2025-04-02
+U0169,Sales,Europe,Manager,2025-07-02
+U0170,Marketing,Europe,Analyst,2025-01-13
+U0171,Operations,Europe,Analyst,2025-02-27
+U0172,Strategy,North America,Analyst,2025-02-19
+U0173,Marketing,APAC,Director,2026-02-26
+U0174,Operations,North America,Manager,2026-01-30
+U0175,Sales,India,Analyst,2026-01-16
+U0176,Strategy,India,Director,2025-09-10
+U0177,HR,Europe,Analyst,2026-01-27
+U0178,Strategy,India,Analyst,2025-03-30
+U0179,Finance,North America,Partner,2026-05-07
+U0180,Strategy,APAC,Analyst,2025-10-01
+U0181,HR,India,Analyst,2026-05-28
+U0182,Finance,India,Manager,2025-03-25
+U0183,Operations,APAC,Analyst,2025-09-29
+U0184,HR,North America,Manager,2026-01-16
+U0185,Finance,India,Analyst,2025-09-28
+U0186,Operations,APAC,Analyst,2025-09-01
+U0187,Marketing,APAC,Analyst,2025-04-01
+U0188,Sales,North America,Analyst,2025-07-28
+U0189,Operations,Europe,Analyst,2025-05-11
+U0190,Operations,India,Analyst,2025-06-14
+U0191,Sales,India,Director,2026-01-09
+U0192,Strategy,North America,Analyst,2025-12-11
+U0193,Marketing,India,Analyst,2025-11-28
+U0194,Finance,Europe,Analyst,2025-07-17
+U0195,Strategy,Europe,Analyst,2026-06-08
+U0196,Strategy,India,Analyst,2025-02-17
+U0197,Sales,North America,Manager,2025-07-07
+U0198,Marketing,India,Analyst,2025-03-06
+U0199,Finance,APAC,Director,2025-07-05
+U0200,Strategy,India,Director,2026-06-10
+U0201,HR,Europe,Analyst,2025-07-19
+U0202,HR,North America,Analyst,2026-05-12
+U0203,Finance,North America,Analyst,2025-09-28
+U0204,Strategy,Europe,Manager,2026-01-18
+U0205,Finance,Europe,Analyst,2025-09-07
+U0206,Sales,North America,Director,2025-05-26
+U0207,Finance,Europe,Manager,2026-02-22
+U0208,Marketing,APAC,Director,2026-06-14
+U0209,Finance,North America,Manager,2025-05-24
+U0210,Strategy,North America,Partner,2026-03-02
+U0211,HR,India,Analyst,2025-05-23
+U0212,Finance,Europe,Analyst,2026-01-27
+U0213,Finance,North America,Analyst,2026-03-07
+U0214,Finance,North America,Partner,2025-09-03
+U0215,Operations,India,Manager,2026-02-07
+U0216,Marketing,APAC,Director,2025-05-29
+U0217,Sales,North America,Analyst,2025-02-13
+U0218,Strategy,Europe,Partner,2025-02-22
+U0219,Finance,India,Analyst,2025-09-02
+U0220,Marketing,APAC,Analyst,2026-05-08
+U0221,Strategy,India,Partner,2025-03-11
+U0222,Marketing,India,Analyst,2025-09-06
+U0223,HR,APAC,Analyst,2026-01-20
+U0224,Marketing,APAC,Manager,2025-04-21
+U0225,Finance,India,Analyst,2026-01-30
+U0226,Sales,North America,Analyst,2025-06-17
+U0227,Finance,Europe,Analyst,2026-03-18
+U0228,Operations,APAC,Analyst,2025-11-13
+U0229,Marketing,North America,Director,2025-10-26
+U0230,HR,North America,Manager,2025-04-07
+U0231,Strategy,Europe,Analyst,2025-09-10
+U0232,Finance,Europe,Analyst,2026-04-13
+U0233,Marketing,Europe,Analyst,2025-01-11
+U0234,Finance,North America,Manager,2026-02-19
+U0235,Sales,India,Director,2025-09-27
+U0236,HR,APAC,Partner,2026-01-28
+U0237,Strategy,APAC,Analyst,2025-12-29
+U0238,Operations,Europe,Analyst,2025-08-24
+U0239,Finance,India,Analyst,2025-06-18
+U0240,Operations,India,Manager,2025-12-09
+U0241,Finance,Europe,Analyst,2025-03-18
+U0242,Strategy,India,Manager,2025-11-15
+U0243,HR,APAC,Manager,2025-02-21
+U0244,Finance,North America,Analyst,2025-12-21
+U0245,Finance,Europe,Analyst,2025-12-10
+U0246,Finance,APAC,Analyst,2025-02-16
+U0247,Strategy,North America,Analyst,2026-02-18
+U0248,Operations,North America,Analyst,2025-08-16
+U0249,Marketing,Europe,Manager,2026-03-06
+U0250,HR,North America,Analyst,2025-01-23
+U0251,Operations,North America,Analyst,2025-04-08
+U0252,Finance,Europe,Manager,2025-09-27
+U0253,Strategy,APAC,Manager,2025-04-13
+U0254,Sales,North America,Analyst,2025-06-30
+U0255,Operations,India,Director,2025-12-27
+U0256,HR,North America,Director,2025-03-20
+U0257,HR,North America,Manager,2026-01-06
+U0258,Strategy,India,Manager,2025-02-26
+U0259,Finance,India,Analyst,2025-04-06
+U0260,Operations,Europe,Partner,2025-11-17
+U0261,Sales,North America,Analyst,2026-03-10
+U0262,Operations,APAC,Director,2025-04-04
+U0263,Finance,India,Manager,2025-06-13
+U0264,Finance,India,Analyst,2026-05-21
+U0265,Sales,Europe,Analyst,2026-06-25
+U0266,Sales,APAC,Manager,2025-11-14
+U0267,Operations,India,Manager,2025-09-02
+U0268,Operations,India,Analyst,2025-07-09
+U0269,HR,India,Manager,2025-12-01
+U0270,Sales,North America,Director,2025-11-19
+U0271,Sales,North America,Analyst,2025-06-10
+U0272,Sales,India,Analyst,2025-01-13
+U0273,Operations,India,Analyst,2025-03-24
+U0274,Sales,North America,Manager,2026-06-08
+U0275,Finance,APAC,Analyst,2025-08-17
+U0276,Sales,Europe,Director,2025-09-21
+U0277,Operations,North America,Analyst,2025-09-13
+U0278,Sales,India,Manager,2026-03-04
+U0279,Operations,India,Analyst,2025-02-05
+U0280,Operations,India,Analyst,2025-02-15
+U0281,HR,Europe,Manager,2025-05-31
+U0282,HR,APAC,Analyst,2025-09-23
+U0283,HR,APAC,Manager,2026-01-02
+U0284,Sales,APAC,Partner,2025-09-25
+U0285,Marketing,APAC,Partner,2025-08-29
+U0286,Operations,APAC,Director,2026-05-28
+U0287,Operations,India,Analyst,2025-03-29
+U0288,HR,India,Manager,2025-11-09
+U0289,Sales,North America,Director,2025-10-24
+U0290,Operations,North America,Analyst,2025-09-16
+U0291,Marketing,India,Analyst,2026-03-17
+U0292,Strategy,Europe,Director,2025-05-26
+U0293,Strategy,Europe,Analyst,2026-06-05
+U0294,Operations,North America,Manager,2025-07-01
+U0295,Operations,India,Partner,2025-10-25
+U0296,Marketing,India,Manager,2025-10-12
+U0297,Sales,India,Analyst,2026-04-09
+U0298,Marketing,APAC,Analyst,2025-08-28
+U0299,Operations,North America,Analyst,2025-06-05
+U0300,Finance,Europe,Analyst,2025-01-12
+U0301,Finance,India,Manager,2025-07-18
+U0302,Strategy,North America,Director,2026-03-28
+U0303,Finance,North America,Analyst,2025-01-06
+U0304,Sales,Europe,Analyst,2026-05-05
+U0305,Sales,Europe,Director,2025-10-24
+U0306,Finance,India,Analyst,2025-03-18
+U0307,Sales,APAC,Manager,2025-06-14
+U0308,Marketing,India,Analyst,2025-10-30
+U0309,Finance,APAC,Manager,2025-06-22
+U0310,Marketing,India,Analyst,2025-03-01
+U0311,Strategy,India,Manager,2025-12-30
+U0312,Sales,Europe,Analyst,2026-01-03
+U0313,Finance,India,Manager,2025-03-06
+U0314,Operations,North America,Analyst,2025-06-03
+U0315,Finance,North America,Analyst,2025-05-14
+U0316,Sales,India,Manager,2025-12-27
+U0317,Strategy,Europe,Analyst,2026-02-03
+U0318,Strategy,APAC,Analyst,2026-02-01
+U0319,Marketing,APAC,Analyst,2026-05-28
+U0320,Sales,North America,Analyst,2026-02-24
+U0321,HR,North America,Analyst,2025-06-25
+U0322,HR,India,Partner,2025-02-28
+U0323,Sales,India,Analyst,2025-12-02
+U0324,HR,India,Director,2026-05-16
+U0325,Finance,APAC,Partner,2026-06-17
+U0326,Sales,APAC,Analyst,2025-05-06
+U0327,Operations,Europe,Manager,2025-05-10
+U0328,Finance,North America,Director,2025-01-21
+U0329,Finance,North America,Manager,2025-03-19
+U0330,Marketing,North America,Analyst,2025-10-30
+U0331,Strategy,North America,Analyst,2025-10-26
+U0332,Operations,North America,Analyst,2025-07-22
+U0333,Marketing,India,Manager,2025-06-19
+U0334,Strategy,India,Partner,2026-03-30
+U0335,Finance,APAC,Partner,2025-09-09
+U0336,Operations,North America,Analyst,2026-03-18
+U0337,Sales,APAC,Manager,2026-06-10
+U0338,Finance,India,Analyst,2025-06-23
+U0339,Marketing,North America,Director,2025-04-21
+U0340,Operations,India,Analyst,2026-06-05
+U0341,Operations,India,Partner,2025-12-13
+U0342,Finance,India,Director,2025-06-08
+U0343,Finance,India,Analyst,2025-12-06
+U0344,Strategy,APAC,Analyst,2025-10-09
+U0345,Finance,North America,Director,2026-05-10
+U0346,Sales,Europe,Analyst,2025-05-20
+U0347,Sales,North America,Manager,2026-06-26
+U0348,Operations,North America,Director,2026-05-27
+U0349,Operations,North America,Manager,2025-04-09
+U0350,Operations,India,Analyst,2025-03-31
+U0351,Finance,APAC,Analyst,2025-10-19
+U0352,Sales,Europe,Analyst,2025-01-25
+U0353,Strategy,Europe,Partner,2025-06-13
+U0354,HR,North America,Analyst,2025-08-26
+U0355,HR,India,Analyst,2026-06-14
+U0356,HR,APAC,Analyst,2026-06-26
+U0357,Marketing,North America,Partner,2025-03-24
+U0358,Finance,India,Analyst,2026-05-02
+U0359,Sales,North America,Director,2025-02-19
+U0360,Operations,Europe,Manager,2026-02-13
+U0361,Sales,Europe,Director,2026-04-07
+U0362,Strategy,Europe,Partner,2026-05-02
+U0363,Operations,Europe,Director,2025-05-02
+U0364,Marketing,India,Partner,2026-05-03
+U0365,Strategy,APAC,Analyst,2025-03-05
+U0366,Operations,North America,Manager,2025-10-11
+U0367,Strategy,Europe,Manager,2025-09-14
+U0368,Operations,India,Manager,2025-06-22
+U0369,Strategy,APAC,Director,2025-01-13
+U0370,Sales,India,Partner,2026-02-26
+U0371,Operations,India,Manager,2025-07-03
+U0372,Operations,North America,Analyst,2025-12-28
+U0373,Finance,India,Analyst,2025-08-12
+U0374,Sales,India,Analyst,2025-07-24
+U0375,Strategy,Europe,Analyst,2026-04-29
+U0376,HR,North America,Analyst,2025-02-21
+U0377,Finance,APAC,Analyst,2026-02-07
+U0378,Sales,North America,Analyst,2026-02-12
+U0379,Finance,Europe,Manager,2025-07-27
+U0380,Finance,North America,Analyst,2025-05-24
+U0381,Strategy,Europe,Partner,2025-01-03
+U0382,Operations,North America,Manager,2026-05-27
+U0383,Sales,North America,Analyst,2026-06-02
+U0384,Operations,APAC,Analyst,2025-05-12
+U0385,Finance,North America,Analyst,2025-01-18
+U0386,Sales,India,Partner,2025-03-09
+U0387,HR,Europe,Analyst,2025-02-06
+U0388,HR,Europe,Manager,2026-03-30
+U0389,Strategy,India,Partner,2026-05-02
+U0390,HR,North America,Partner,2025-03-25
+U0391,Operations,APAC,Analyst,2026-02-12
+U0392,Marketing,Europe,Analyst,2025-04-08
+U0393,Strategy,APAC,Analyst,2025-07-20
+U0394,Marketing,North America,Analyst,2025-11-24
+U0395,Strategy,Europe,Analyst,2026-01-29
+U0396,Marketing,North America,Manager,2026-04-23
+U0397,Strategy,APAC,Director,2025-01-25
+U0398,Finance,North America,Manager,2025-04-18
+U0399,Marketing,Europe,Manager,2025-06-03
+U0400,Operations,North America,Analyst,2025-06-19
+U0401,Operations,North America,Director,2026-06-29
+U0402,HR,Europe,Manager,2026-03-01
+U0403,Strategy,North America,Director,2025-06-24
+U0404,Strategy,APAC,Partner,2026-06-15
+U0405,Sales,North America,Analyst,2025-09-30
+U0406,Marketing,Europe,Analyst,2025-10-01
+U0407,Marketing,North America,Analyst,2025-08-25
+U0408,Sales,North America,Analyst,2025-03-20
+U0409,Finance,North America,Partner,2026-05-26
+U0410,Finance,India,Analyst,2025-01-08
+U0411,Marketing,India,Manager,2025-04-06
+U0412,Operations,Europe,Manager,2025-05-06
+U0413,Strategy,Europe,Analyst,2025-06-02
+U0414,Operations,Europe,Analyst,2025-03-13
+U0415,Strategy,India,Manager,2025-01-10
+U0416,Sales,North America,Manager,2026-01-06
+U0417,Marketing,India,Analyst,2026-06-14
+U0418,Finance,Europe,Analyst,2025-03-08
+U0419,Operations,APAC,Manager,2025-06-11
+U0420,Marketing,India,Analyst,2025-10-04

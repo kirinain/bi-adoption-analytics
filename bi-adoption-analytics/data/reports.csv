@@ -1,0 +1,9 @@
+report_id,report_name,owner_team,platform,data_source
+R01,Revenue Overview,Finance,Power BI,Databricks
+R02,Pipeline Tracker,Sales,Power BI,Salesforce
+R03,Headcount Planner,HR,Tableau,Workday
+R04,Utilization Dashboard,Operations,Power BI,Databricks
+R05,Client Profitability,Finance,Power BI,Databricks
+R06,Expense Monitor,Finance,Tableau,SAP
+R07,Marketing Funnel,Marketing,Power BI,HubSpot
+R08,Ops KPI Scorecard,Operations,Tableau,Databricks
